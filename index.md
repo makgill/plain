@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<pre>
+
 
 Bitcoin scaling problems
 
@@ -48,4 +48,3 @@ which would mean that only a small number of big wealthy institutions are full
 participants in the system – which brings us back to the problems we have been 
 having with gold and fiat money.
 
-</pre>
